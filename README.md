@@ -1,1 +1,1 @@
-<h1 class="Titolone">BUONGIORNO</h1>
+<h1 align="center">BUONGIORNO</h1>
